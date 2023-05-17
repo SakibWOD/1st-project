@@ -1,0 +1,106 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+#topheader {
+    background: black;
+    opacity: .9;
+    padding: 3px;
+    margin-bottom: 2px;
+    border: 1px solid gray;
+    height: 40px;
+}
+
+.mycols {
+    text-align: right;
+    height: 40px;
+}
+
+
+
+div a {
+    text-align: right;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+div a:hover {
+    color: green;
+}
+
+.navbar {
+    height: 80px;
+}
+
+.nav-link {
+    font: 1em sans-serif;
+}
+
+
+
+.middle {
+    height: 60vh;
+    width: 100%;
+    text-align: center;
+    margin-left: -200px;
+
+}
+
+.mi {
+    margin-top: 200px;
+}
+
+
+.mi h5 {
+    font-size: 48px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+
+}
+
+.mi p {
+    color: gray;
+    display: block;
+}
+
+.btn {
+    height: 35px;
+    width: 120px;
+}
+
+
+
+.imi {
+
+    text-align: right;
+
+    margin-bottom: 300px;
+    margin-top: -300px;
+    margin-right: -50px;
+}
+
+footer {
+    background-color: ghostwhite;
+    height: 10vh;
+    width: 100%;
+}
+
+.c-footer {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.footer-img {
+    height: 70px;
+    width: 120px;
+    text-align: center;
+}# 1st-project
