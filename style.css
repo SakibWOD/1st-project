@@ -46,13 +46,7 @@ div a:hover {
 
 
 
-.middle {
-    height: 60vh;
-    width: 100%;
-    text-align: center;
-    margin-left: -200px;
 
-}
 
 .mi {
     margin-top: 200px;
@@ -78,19 +72,22 @@ div a:hover {
 
 
 
-.imi {
+..imi {
 
     text-align: right;
-
+    align-items: end;
     margin-bottom: 300px;
     margin-top: -300px;
     margin-right: -50px;
 }
 
+
+
 footer {
     background-color: ghostwhite;
     height: 10vh;
     width: 100%;
+
 }
 
 .c-footer {
@@ -103,4 +100,6 @@ footer {
     height: 70px;
     width: 120px;
     text-align: center;
-}# 1st-project
+}
+
+# 1st-project
